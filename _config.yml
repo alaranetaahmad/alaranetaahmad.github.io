@@ -2,10 +2,14 @@ title: Al-Khadeem Ahmad # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+  <br>
+  Hi, I'm Al-Khadeem Ahmad! I hold a Bachelor of Sciece in Degree in Applied Physics, and have more than 3 years of working experience in data analytics. I've always wanted<br>
+  to do data analysis because I'm fond of solving simple and complex problems. I have a solid understanding of data analytics techniques such as data mining, dashboard building, and insights generation.<br>
+  
+  <br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/aaahmadupd/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
