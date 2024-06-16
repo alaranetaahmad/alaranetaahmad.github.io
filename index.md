@@ -1,20 +1,21 @@
-## Portfolio
+## Project Portfolio
 
 ---
 
-### Google Analytics 
+### Google Analytics / Google Tag Manager
 
-[Project 1 Title](/sample_page)
+I have set up more than 10 properties in Google Analytics, both in Universal Analytics (UA) and Google Analytics 4 (GA).  I start off with creating a measurement plan to make sure everything is documented. I use Google Tag Manager to configure the property setting and initial events tracking. Tracking events was usually done using either pageview or click trigger, while more complicated events are set up using data layers.
+
+
+(/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
+### Looker Studio / Power BI
 
-### Google Tag Manager
+Visualizing and analyzing data are usually done using BI tools such as Looker Studio and Power BI. 
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
